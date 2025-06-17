@@ -1,5 +1,4 @@
 # Desafio-L-gica-Super-Trunfo
-# Desafio Lógica Super Trunfo
 
 Projeto feito para a disciplina de Lógica de Programação.
 
